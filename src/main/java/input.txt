@@ -1,0 +1,26 @@
+90 -30
+90 -130 A normal new label
++90 +130
+90 N 130.5 W
+90N 130.5W
+90N, 130.5W
+90 north, 130.5 south
+80 n 50 s
+90     N     ,     130.5    E
+90 130.5
+90, 130.5
+90, 130.5 A normal new label
+90, 130.5A brave new world
+90130.5
+90N130.5E
+-90N 130.5E
+23 d 45    m 2 s N, 15 d 20 m 3 s W
+23 D 45 M 2 S N, 15 d 20 m 3 s S
+23 d 45 m 2 s N, 15 d   20 m 3 s W A normal new label
+23° 45' 02.0" N, 15° 20' 03.0" W
+23°45'02.0"N,15°20'03.0"W
+23°45'02.0"N,15°20'03.0"W A normal label
+3.2582947 S 4.2595792 E
+50 S, 40 S
+50 E, 40 E
+-100 0
